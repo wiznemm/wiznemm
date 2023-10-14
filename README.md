@@ -7,7 +7,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset=""
+    srcset="https://tinyurl.com/3x9us87x"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -15,6 +15,6 @@
   />
   <img
     alt="github contribution grid snake animation"
-    src=""
+    src="https://tinyurl.com/nhhdm4ww"
   />
 </picture>
